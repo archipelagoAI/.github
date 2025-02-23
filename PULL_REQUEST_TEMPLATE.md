@@ -1,32 +1,32 @@
 ## Why?
 
-( Please include a rationale for the changes and the related issue, providing any relevant motivation and context. )
+*Please include a rationale for the changes and the related issue, providing any relevant motivation and context.*
 
-( Please include a link to the Linear ticket(s). If there is no ticket associated, explain why. )
-( e.g. [ARCH-66 : chore: Create a standard PR Template](https://linear.app/archipelago-ai/issue/ARCH-66/chore-create-a-standard-pr-template) )
+*Please include a link to the Linear ticket(s), using the form `[magic word] + [ticket code]`, like so*: **closes ARCH-66, ARCH-67**
+
+> Linear offers closing and non-closing magic words for you to customize your workflow. When using a closing magic word, Linear will move the issue to In Progress when the branch is pushed and Done when the commit is merged to the default branch. When using a non-closing magic word, the linked PR or commit will still move the issue through other statuses per Workflow settings, but will not close the issue when the PR or commit merges. For more information see https://linear.app/docs/github
+> 
+> The closing magic words are: **close, closes, closed, closing fix, fixes, fixed, fixing, resolve, resolves, resolved, resolving, complete, completes, completed, completing**.
+> 
+> The non-closing magic words are: **ref, references, part of, related to, contributes to, towards**.
 
 ## This PR
 
-( Please summarize the changes in this PR, using plain English wherever possible. )
-
+*Check the appropriate boxes and remove the others:*
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
 
-## Screenshots (if applicable)
+*Summarize the changes in this PR, using plain English.*
+
+## Screenshots
+
+*Remove section if not applicable.*
 
 ## Testing
 
-( Please describe the tests that you ran to verify your changes. Consider unit, integration, and functional (manual) testing. Ideally, provide instructions so we can reproduce. Please also list any relevant details for your test configuration. Not all changes can be or need to be tested. If so, please write "N/A because <reason>" )
-
-
-## Checklist:
-
-- [ ] I have performed a self-review of my own code
-- [ ] I have made corresponding changes to the documentation
-- [ ] CI is Green ✅ 
+*Describe the tests that you ran to verify your changes, if applicable. Consider unit, integration, and functional (manual) testing. Ideally, provide instructions so we can reproduce. Please also list any relevant details for your test configuration.*
 
 ## Notes
 
-( Add any other context about the problem, solution, or future considerations here. )
+*Add any other context about the problem, solution, or future considerations here.*
