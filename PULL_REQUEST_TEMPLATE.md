@@ -1,6 +1,6 @@
 ## Why?
 
-*Please include a rationale for the changes and the related issue, providing any relevant motivation and context.*
+*Please include a rationale for the changes and the related issue, providing any relevant motivation and context. Include screenshots or recordings if applicable.*
 
 *Please include a link to the Linear ticket(s), using the form `[magic word] + [ticket code]`, like so*: **closes ARCH-66, ARCH-67**
 
@@ -10,22 +10,13 @@
 > 
 > The non-closing magic words are: **ref, references, part of, related to, contributes to, towards**.
 
-## This PR
+## This PR will
 
-*Check the appropriate boxes and remove the others:*
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-
-*Summarize the changes in this PR, using plain English.*
-
-## Screenshots
-
-*Remove section if not applicable.*
+*Summarize the changes in bullets.*
 
 ## Testing
 
-*Describe the tests that you ran to verify your changes, if applicable. Consider unit, integration, and functional (manual) testing. Ideally, provide instructions so we can reproduce. Please also list any relevant details for your test configuration.*
+*Describe the tests that you ran to verify your changes, if applicable. Consider unit, integration, and functional (manual) testing. Ideally, provide instructions so we can reproduce. Please also list any relevant details for your test configuration. Include screenshots or recordings if applicable.*
 
 ## Notes
 
