@@ -18,6 +18,8 @@
 
 *Describe the tests that you ran to verify your changes, if applicable. Consider unit, integration, and functional (manual) testing. Ideally, provide instructions so we can reproduce. Please also list any relevant details for your test configuration. Include screenshots or recordings if applicable.*
 
+- [ ] I updated StoryBook
+
 ## Notes
 
 *Add any other context about the problem, solution, or future considerations here.*
